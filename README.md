@@ -1,0 +1,2 @@
+# pokedex
+Tarea Ricardo Tejerina
